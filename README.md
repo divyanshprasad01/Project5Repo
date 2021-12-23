@@ -24,7 +24,7 @@ Included:
 You can install this application to test on your android smartphone. To download the signed application go to your chrome browser and copy-paste the download link:
 
 ```
-https://github.com/imShakil/BloodBank/releases/latest/download/blood-point.apk
+https://github.com/divyanshprasad01/BloodBank/releases/latest/download/blood-point.apk
 ```
 
 Download will be started automatically. After then install it on your android device.
@@ -45,9 +45,6 @@ N.B: It supports only in android version 4.0 or later.
 ![](https://img.shields.io/github/issues/imshakil/BloodBank.svg) 
 
 
-# Database Snapshot
-Follow this link: https://github.com/imShakil/BloodBank/wiki/Databse-Snapshots
-(This project can be used for any educational purpose and can be changed or modified in need.<br><b> A star will be appriciated if you think it might be helpful.</b>)<br>
 
 # Changing Database and Package Name
 I got so many mails on about 'How to change Database link and Package Name'. So, Who has queries can watch this video: https://www.youtube.com/watch?v=nAzAo7shGKQ&ab_channel=AnubhavAnand
